@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: Shoes
+  m_EditorClassIdentifier: 
+  itemId: 0
+  counter: 0
+  itemName: Shoes
+  buttonSprite: {fileID: -5113416345225039817, guid: 0bf2a87f4f70141d2b794b893434c9af, type: 3}
+  itemArray:
+  - {fileID: -864779440313435814, guid: 1d399b0ae10104ee9b0f0ae12e84cf8d, type: 3}
+  - {fileID: -8333902252593821535, guid: 1d399b0ae10104ee9b0f0ae12e84cf8d, type: 3}
+  - {fileID: -2305194610172822295, guid: 1d399b0ae10104ee9b0f0ae12e84cf8d, type: 3}
+  - {fileID: 3786312303270589573, guid: 1d399b0ae10104ee9b0f0ae12e84cf8d, type: 3}
+  - {fileID: -8112048906741250077, guid: 1d399b0ae10104ee9b0f0ae12e84cf8d, type: 3}
+  - {fileID: -9009419582571426150, guid: 1d399b0ae10104ee9b0f0ae12e84cf8d, type: 3}
+  transformArray: []

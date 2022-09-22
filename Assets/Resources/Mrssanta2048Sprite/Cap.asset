@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: Cap
+  m_EditorClassIdentifier: 
+  itemId: 0
+  counter: 0
+  itemName: Cap
+  buttonSprite: {fileID: -2039957728656609764, guid: 0bf2a87f4f70141d2b794b893434c9af, type: 3}
+  itemArray:
+  - {fileID: 3368440128520009931, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: 5969565962722240199, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: 5219565826770423053, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: -7226730429522216073, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: 8917286698036288738, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: -2721115869925247332, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: 7353277531611974037, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: 2621698356290370159, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  transformArray: []
