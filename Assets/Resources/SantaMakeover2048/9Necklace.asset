@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: 9Necklace
+  m_EditorClassIdentifier: 
+  itemId: 9
+  counter: 0
+  itemName: Necklace
+  buttonSprite: {fileID: -1862896029180758800, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  itemArray:
+  - {fileID: 4116019978566407993, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  - {fileID: -1151847220275148746, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  - {fileID: -3969656573521865671, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  - {fileID: -3457693426548758222, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  - {fileID: -6469573851424257824, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  - {fileID: 6534798918693251371, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  transformArray: []

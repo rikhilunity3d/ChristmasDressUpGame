@@ -1,7 +1,67 @@
 fileFormatVersion: 2
 guid: bd69c545734574903876bae832527bc7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1296104272707205349
+    second: hat-dress-bottom500*750_0
+  - first:
+      213: -334107868439998689
+    second: hat-dress-bottom500*750_1
+  - first:
+      213: -2290478706001078462
+    second: hat-dress-bottom500*750_2
+  - first:
+      213: 895634683670551105
+    second: hat-dress-bottom500*750_3
+  - first:
+      213: -8681918284852910425
+    second: hat-dress-bottom500*750_4
+  - first:
+      213: 5834229276619838583
+    second: hat-dress-bottom500*750_5
+  - first:
+      213: -6619938023676669899
+    second: hat-dress-bottom500*750_6
+  - first:
+      213: 188317347160181944
+    second: hat-dress-bottom500*750_7
+  - first:
+      213: -1802925252793697286
+    second: hat-dress-bottom500*750_8
+  - first:
+      213: 6093051217067187183
+    second: hat-dress-bottom500*750_9
+  - first:
+      213: -6364080995868023417
+    second: hat-dress-bottom500*750_10
+  - first:
+      213: -4559575421682769056
+    second: hat-dress-bottom500*750_11
+  - first:
+      213: -2814875917134646002
+    second: hat-dress-bottom500*750_12
+  - first:
+      213: 800651428660045576
+    second: hat-dress-bottom500*750_13
+  - first:
+      213: 1919725480327382705
+    second: hat-dress-bottom500*750_14
+  - first:
+      213: -6403490120634514196
+    second: hat-dress-bottom500*750_15
+  - first:
+      213: 7697746420968485134
+    second: hat-dress-bottom500*750_16
+  - first:
+      213: 4218261267351329141
+    second: hat-dress-bottom500*750_17
+  - first:
+      213: -7090707932358862242
+    second: hat-dress-bottom500*750_18
+  - first:
+      213: 7138536971558063070
+    second: hat-dress-bottom500*750_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +92,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,7 +101,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,14 +130,470 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3346
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17cb61f700530ee0800000000000000
+      internalID: -1296104272707205349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3346
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f88f0f9a20d5bf0800000000000000
+      internalID: -334107868439998689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3346
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247953b90c59630e0800000000000000
+      internalID: -2290478706001078462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3346
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ad3b0effeed6c00800000000000000
+      internalID: 895634683670551105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3346
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6af569151a38780800000000000000
+      internalID: -8681918284852910425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3346
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741c13bd9857f050800000000000000
+      internalID: 5834229276619838583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3346
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53096aff0714124a0800000000000000
+      internalID: -6619938023676669899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3346
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc68621a90d9200800000000000000
+      internalID: 188317347160181944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2596
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb76aee809baf6e0800000000000000
+      internalID: -1802925252793697286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2596
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb1d8faccdde8450800000000000000
+      internalID: 6093051217067187183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2596
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785e8777d0e3ea7a0800000000000000
+      internalID: -6364080995868023417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2596
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0632ff7cf4229b0c0800000000000000
+      internalID: -4559575421682769056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2596
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e053368644d8fe8d0800000000000000
+      internalID: -2814875917134646002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_13
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2596
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807e03a7b3c7c1b00800000000000000
+      internalID: 800651428660045576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2596
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60e29372c34aa10800000000000000
+      internalID: 1919725480327382705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2596
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce44bd499ab3227a0800000000000000
+      internalID: -6403490120634514196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017cd0e593e3da60800000000000000
+      internalID: 7697746420968485134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1846
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579d34af5464a8a30800000000000000
+      internalID: 4218261267351329141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1846
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a94b524beb89d90800000000000000
+      internalID: -7090707932358862242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat-dress-bottom500*750_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1846
+        width: 500
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb06b5dd8d211360800000000000000
+      internalID: 7138536971558063070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

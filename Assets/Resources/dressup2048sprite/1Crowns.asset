@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: 1Crowns
+  m_EditorClassIdentifier: 
+  itemId: 1
+  counter: 0
+  itemName: Crowns
+  buttonSprite: {fileID: 7651767921993560269, guid: 0959dc69897b040c2ba0afe4a92dffbe, type: 3}
+  itemArray:
+  - {fileID: 6560706653977780155, guid: 9472a42ecf0fe40e5ad9290e9e16a285, type: 3}
+  - {fileID: 8302531977897944490, guid: 9472a42ecf0fe40e5ad9290e9e16a285, type: 3}
+  - {fileID: -8321556858388464516, guid: 9472a42ecf0fe40e5ad9290e9e16a285, type: 3}
+  - {fileID: -1199598077629037561, guid: 9472a42ecf0fe40e5ad9290e9e16a285, type: 3}
+  - {fileID: 6448049553427665541, guid: 9472a42ecf0fe40e5ad9290e9e16a285, type: 3}
+  - {fileID: -1581927165796483253, guid: 9472a42ecf0fe40e5ad9290e9e16a285, type: 3}
+  transformArray: []

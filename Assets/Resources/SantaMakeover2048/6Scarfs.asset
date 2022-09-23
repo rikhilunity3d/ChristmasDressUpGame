@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: 6Scarfs
+  m_EditorClassIdentifier: 
+  itemId: 6
+  counter: 0
+  itemName: Scarf
+  buttonSprite: {fileID: 8558400190509896729, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  itemArray:
+  - {fileID: -1091202413727208533, guid: a161a200c4fec45858cd7cbe247a6702, type: 3}
+  - {fileID: 7591132768470788447, guid: a161a200c4fec45858cd7cbe247a6702, type: 3}
+  - {fileID: 6079045524827498376, guid: a161a200c4fec45858cd7cbe247a6702, type: 3}
+  - {fileID: 8138489873201525765, guid: a161a200c4fec45858cd7cbe247a6702, type: 3}
+  - {fileID: 8661823074384045689, guid: a161a200c4fec45858cd7cbe247a6702, type: 3}
+  - {fileID: 2620710180284493138, guid: a161a200c4fec45858cd7cbe247a6702, type: 3}
+  - {fileID: -4771347454917967557, guid: a161a200c4fec45858cd7cbe247a6702, type: 3}
+  transformArray: []

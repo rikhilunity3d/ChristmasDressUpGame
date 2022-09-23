@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 2e5494ffc719340feb70c04f779ce795
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6256938261062006049
+    second: shoes-top500*500_0
+  - first:
+      213: -9000882042034713836
+    second: shoes-top500*500_1
+  - first:
+      213: -2279884274576401172
+    second: shoes-top500*500_2
+  - first:
+      213: -2362571475726789365
+    second: shoes-top500*500_3
+  - first:
+      213: -5206997439078693461
+    second: shoes-top500*500_4
+  - first:
+      213: 3916090529701222349
+    second: shoes-top500*500_5
+  - first:
+      213: -5230480390591720822
+    second: shoes-top500*500_6
+  - first:
+      213: 3861116551420160392
+    second: shoes-top500*500_7
+  - first:
+      213: -2606594213288183941
+    second: shoes-top500*500_8
+  - first:
+      213: 4829024163402674391
+    second: shoes-top500*500_9
+  - first:
+      213: -7939900382320216797
+    second: shoes-top500*500_10
+  - first:
+      213: 137218463325174248
+    second: shoes-top500*500_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +68,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,7 +77,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,14 +106,302 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: shoes-top500*500_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda49df5dc3ea29a0800000000000000
+      internalID: -6256938261062006049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1548
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0453b871761380800000000000000
+      internalID: -9000882042034713836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1548
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecdfd4e4593c50e0800000000000000
+      internalID: -2279884274576401172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1548
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0595d0a2c5763fd0800000000000000
+      internalID: -2362571475726789365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58851ca670db7b0800000000000000
+      internalID: -5206997439078693461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1048
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7dc13a69fb85630800000000000000
+      internalID: 3916090529701222349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1048
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82522a0cc99967b0800000000000000
+      internalID: -5230480390591720822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1048
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889a7c3eb01759530800000000000000
+      internalID: 3861116551420160392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b777e539f5483dbd0800000000000000
+      internalID: -2606594213288183941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 548
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0f46f24e3240340800000000000000
+      internalID: 4829024163402674391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 548
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b0df6baecfc190800000000000000
+      internalID: -7939900382320216797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoes-top500*500_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 548
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e93f13277f77e100800000000000000
+      internalID: 137218463325174248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

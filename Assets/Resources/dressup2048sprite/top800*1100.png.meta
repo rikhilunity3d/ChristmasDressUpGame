@@ -1,7 +1,52 @@
 fileFormatVersion: 2
 guid: f82aa45ae3c6846b18bbe04ba2ff8e87
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -283887892826571889
+    second: top800*1100_0
+  - first:
+      213: -4524062600024889822
+    second: top800*1100_1
+  - first:
+      213: 5734082875249151379
+    second: top800*1100_2
+  - first:
+      213: -4812774201510187415
+    second: top800*1100_3
+  - first:
+      213: 5607236467440047176
+    second: top800*1100_4
+  - first:
+      213: -2287655855607235789
+    second: top800*1100_5
+  - first:
+      213: -7923802287673545928
+    second: top800*1100_6
+  - first:
+      213: -6662438525029362271
+    second: top800*1100_7
+  - first:
+      213: -8729103783439322159
+    second: top800*1100_8
+  - first:
+      213: -8996050844246046172
+    second: top800*1100_9
+  - first:
+      213: 4887710786677170573
+    second: top800*1100_10
+  - first:
+      213: -2012852468991095157
+    second: top800*1100_11
+  - first:
+      213: 4921018867522766271
+    second: top800*1100_12
+  - first:
+      213: -7473190722104285936
+    second: top800*1100_13
+  - first:
+      213: 3577758861128243359
+    second: top800*1100_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +77,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,7 +86,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,14 +115,365 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: top800*1100_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2996
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bb900377d6f0cf0800000000000000
+      internalID: -283887892826571889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2996
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e2e7e80d4731c0800000000000000
+      internalID: -4524062600024889822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2996
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d40eb9efd839f40800000000000000
+      internalID: 5734082875249151379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2996
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e22d6ec57953db0800000000000000
+      internalID: -4812774201510187415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2996
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8445165dbd7e0dd40800000000000000
+      internalID: 5607236467440047176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1896
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b303eae1d9040e0800000000000000
+      internalID: -2287655855607235789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1896
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6acc2dcff80290800000000000000
+      internalID: -7923802287673545928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1896
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a55fb9e5734a83a0800000000000000
+      internalID: -6662438525029362271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1896
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b4949b5efbd680800000000000000
+      internalID: -8729103783439322159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1896
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a8c579b6b972380800000000000000
+      internalID: -8996050844246046172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81ecb47013a4d340800000000000000
+      internalID: 4887710786677170573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 796
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e84801859e014e0800000000000000
+      internalID: -2012852468991095157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 796
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb580bb5698fa4440800000000000000
+      internalID: 4921018867522766271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 796
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015aa3602a4e94890800000000000000
+      internalID: -7473190722104285936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top800*1100_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 796
+        width: 800
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f981e897ab0c6a130800000000000000
+      internalID: 3577758861128243359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

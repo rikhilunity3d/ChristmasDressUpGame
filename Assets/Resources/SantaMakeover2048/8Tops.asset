@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: 8Tops
+  m_EditorClassIdentifier: 
+  itemId: 8
+  counter: 0
+  itemName: Tops
+  buttonSprite: {fileID: 6045334136553752579, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
+  itemArray:
+  - {fileID: -6256938261062006049, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
+  - {fileID: -9000882042034713836, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
+  - {fileID: -2279884274576401172, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
+  - {fileID: -2362571475726789365, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
+  - {fileID: -5206997439078693461, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
+  - {fileID: 3916090529701222349, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
+  transformArray: []

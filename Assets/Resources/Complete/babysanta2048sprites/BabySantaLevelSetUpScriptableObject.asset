@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9087f62262f418596ff882326ef681, type: 3}
+  m_Name: BabySantaLevelSetUpScriptableObject
+  m_EditorClassIdentifier: 
+  levelName: Baby Santa
+  levelBg: {fileID: 0}
+  widthDivide: 25
+  heightDivide: 25
+  changeableSO:
+  - {fileID: 11400000, guid: 17119e06b0b8b4341878fccab877ade2, type: 2}
+  - {fileID: 11400000, guid: 4ff6705ec00d44b61a1ca3aa1e89765f, type: 2}
+  - {fileID: 11400000, guid: 4287645b8ee654906bd2f1e3315d38a4, type: 2}
+  - {fileID: 11400000, guid: 43978e988b47446c4827e33ff9681b48, type: 2}
+  - {fileID: 11400000, guid: d181a231d2b8848d18fd6fe405d9b486, type: 2}
+  - {fileID: 11400000, guid: d331ecd1df96949199c526807627b129, type: 2}
+  - {fileID: 11400000, guid: ba7a33e499ec5494fb550f58d2fe6d8c, type: 2}
+  - {fileID: 11400000, guid: b325453f134ec433a88dbaa004821a21, type: 2}
+  - {fileID: 11400000, guid: 289b59c0251ab46adbc7ab03f7553c64, type: 2}
+  - {fileID: 11400000, guid: dcca2969d4c1947b5a0440122ba29a06, type: 2}

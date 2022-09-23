@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: 4Pants
+  m_EditorClassIdentifier: 
+  itemId: 4
+  counter: 0
+  itemName: Pants
+  buttonSprite: {fileID: 8599152226500184536, guid: 0959dc69897b040c2ba0afe4a92dffbe, type: 3}
+  itemArray:
+  - {fileID: 4016960994631797219, guid: a68453bc52be041879e37cc1103d6542, type: 3}
+  - {fileID: 5539535846808514208, guid: a68453bc52be041879e37cc1103d6542, type: 3}
+  - {fileID: 2379844936064425223, guid: a68453bc52be041879e37cc1103d6542, type: 3}
+  - {fileID: -6589880850084906442, guid: a68453bc52be041879e37cc1103d6542, type: 3}
+  - {fileID: 4690055747148810402, guid: a68453bc52be041879e37cc1103d6542, type: 3}
+  - {fileID: -4289744886793279996, guid: a68453bc52be041879e37cc1103d6542, type: 3}
+  transformArray: []
