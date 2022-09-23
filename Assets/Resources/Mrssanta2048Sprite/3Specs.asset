@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
-  m_Name: Specs
+  m_Name: 3Specs
   m_EditorClassIdentifier: 
-  itemId: 0
+  itemId: 3
   counter: 0
   itemName: Specs
   buttonSprite: {fileID: -2241671458313026343, guid: 0bf2a87f4f70141d2b794b893434c9af, type: 3}
