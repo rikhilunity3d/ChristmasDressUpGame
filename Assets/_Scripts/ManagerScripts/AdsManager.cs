@@ -51,7 +51,7 @@ public class AdsManager : GenericSingleton<AdsManager>
 #if UNITY_ANDROID
         string adUnitId = "ca-app-pub-8179797674906935/9544807207";
 #elif UNITY_IPHONE
-        string adUnitId = "ca-app-pub-8179797674906935/2432603949";
+        string adUnitId = "ca-app-pub-8179797674906935/3267605943";
 #else
             string adUnitId = "unexpected_platform";
 #endif
@@ -77,7 +77,7 @@ public class AdsManager : GenericSingleton<AdsManager>
 #if UNITY_ANDROID
         string adUnitId = "ca-app-pub-8179797674906935/6918643865";
 #elif UNITY_IPHONE
-        string adUnitId = "ca-app-pub-8179797674906935/4867195592";
+        string adUnitId = "ca-app-pub-8179797674906935/7553786579";
 #else
         string adUnitId = "unexpected_platform";
 #endif
