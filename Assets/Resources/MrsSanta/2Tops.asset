@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: 2Tops
+  m_EditorClassIdentifier: 
+  itemId: 2
+  counter: 0
+  itemName: Tops
+  buttonSprite: {fileID: 4915937678355751431, guid: 0bf2a87f4f70141d2b794b893434c9af, type: 3}
+  itemArray:
+  - {fileID: 609210153994876706, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: -3876967120930261809, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: 3841605380024703668, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: -8140119138102794381, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: 6356032096702131311, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  - {fileID: -4998932208406487157, guid: 9c336288a7b2b49f2a1c27bf071a345c, type: 3}
+  transformArray: []

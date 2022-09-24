@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b48bfaa80b64be2bcbb9eb19f2a145, type: 3}
+  m_Name: 9Bottoms
+  m_EditorClassIdentifier: 
+  itemId: 9
+  counter: 0
+  itemName: Bottoms
+  buttonSprite: {fileID: 7509952081061952043, guid: f8c29030e09484462b19f4e6d791c178, type: 3}
+  itemArray:
+  - {fileID: -8064025646557721436, guid: 1e69563af6faf4503bbf66f52f4c9da7, type: 3}
+  - {fileID: -501964856173726337, guid: 1e69563af6faf4503bbf66f52f4c9da7, type: 3}
+  - {fileID: 3769624230266686769, guid: 1e69563af6faf4503bbf66f52f4c9da7, type: 3}
+  - {fileID: 5679157279705907701, guid: 1e69563af6faf4503bbf66f52f4c9da7, type: 3}
+  - {fileID: -4895742679481667843, guid: 1e69563af6faf4503bbf66f52f4c9da7, type: 3}
+  - {fileID: 2687341926940773260, guid: 1e69563af6faf4503bbf66f52f4c9da7, type: 3}
+  - {fileID: -8024111854826366180, guid: 1e69563af6faf4503bbf66f52f4c9da7, type: 3}
+  transformArray: []
