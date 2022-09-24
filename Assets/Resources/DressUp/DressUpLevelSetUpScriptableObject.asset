@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelName: DressUp
   levelBg: {fileID: 0}
-  widthDivide: 10
-  heightDivide: 10
+  widthDivide: 13
+  heightDivide: 13
   changeableSO:
   - {fileID: 11400000, guid: 1d3dde49f1d3e49e1b3f4e35c2e89e25, type: 2}
   - {fileID: 11400000, guid: eaf685ffe75ec4e87a743513aac4207d, type: 2}
