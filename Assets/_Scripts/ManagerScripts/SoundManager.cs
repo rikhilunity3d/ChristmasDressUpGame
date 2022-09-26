@@ -31,9 +31,17 @@ public class SoundManager : GenericSingleton<SoundManager>
         EventHandler.Instance.OnMuteSound -= Mute;
     }
 
-    public void Mute (bool status)
+    public void Mute ()
     {
-        isMute = status;
+        if (isMute == false)
+        {
+            isMute = true;
+        }
+        else
+        {
+            isMute = false;
+        }
+        EventHandler.Instance.InvokeOnPlayBackGroundSound();
     }
 
     public void SetVolume (float volume)
@@ -45,8 +53,12 @@ public class SoundManager : GenericSingleton<SoundManager>
 
     public void PlayMusic (Sounds sound)
     {
-        if (isMute)
+        if (isMute == true)
+        {
+            print("Background Sound " + isMute.ToString());
+            soundMusic.Stop();
             return;
+        }
 
         AudioClip clip = getSoundClip(sound);
         if (clip != null)

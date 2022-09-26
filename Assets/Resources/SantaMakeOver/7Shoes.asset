@@ -15,7 +15,7 @@ MonoBehaviour:
   itemId: 7
   counter: 0
   itemName: Shoes
-  buttonSprite: {fileID: 4829024163402674391, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
+  buttonSprite: {fileID: -4302698976264844479, guid: 660724806fd0b493ba273ec91fcc1514, type: 3}
   itemArray:
   - {fileID: -5230480390591720822, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
   - {fileID: 3861116551420160392, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
@@ -23,4 +23,3 @@ MonoBehaviour:
   - {fileID: 4829024163402674391, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
   - {fileID: -7939900382320216797, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
   - {fileID: 137218463325174248, guid: 2e5494ffc719340feb70c04f779ce795, type: 3}
-  transformArray: []

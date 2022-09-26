@@ -15,8 +15,7 @@ public class ChangeableScriptableObjects : ScriptableObject
     Sprite buttonSprite;
     [SerializeField]
     Sprite [] itemArray;
-    [SerializeField]
-    GameObject[] transformArray;
+    
 
     //Getters are here of above variables
     #region
@@ -26,6 +25,6 @@ public class ChangeableScriptableObjects : ScriptableObject
     
     public Sprite ButtonSprite { get => buttonSprite; }
     public Sprite[] ItemArray { get => itemArray; set => itemArray = value; }
-    public GameObject[] TransformArray { get => transformArray; set => transformArray = value; }
+    
     #endregion
 }

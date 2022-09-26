@@ -23,10 +23,7 @@ public class UIManager : GenericSingleton<UIManager>
     Button GamePlayArea3;
     [SerializeField]
     Button GamePlayArea4;
-    [SerializeField]
-    Button GamePlayArea5;
-    [SerializeField]
-    Button GamePlayArea6;
+    
 
 
     private void Start()
@@ -45,10 +42,7 @@ public class UIManager : GenericSingleton<UIManager>
         GamePlayArea3.onClick.AddListener(() => LoadLevel(3));
         GamePlayArea4.onClick.AddListener(HideGameObject);
         GamePlayArea4.onClick.AddListener(() => LoadLevel(4));
-        GamePlayArea5.onClick.AddListener(HideGameObject);
-        GamePlayArea5.onClick.AddListener(() => LoadLevel(5));
-        GamePlayArea6.onClick.AddListener(HideGameObject);
-        GamePlayArea6.onClick.AddListener(() => LoadLevel(6));
+
     }
 
     private void LoadLevel(int i)=>EventHandler.Instance.InvokeOnLoadLevel(i);

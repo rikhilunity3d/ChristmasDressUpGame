@@ -15,6 +15,7 @@ public class InstantiateBtn : MonoBehaviour
 
 
     public static event Action<ChangeableScriptableObjects> onChangeableAction;
+   
     private void OnEnable()
     {
         EventHandler.Instance.OnLoadLevelAction += GenerateUIButtons;
@@ -64,7 +65,12 @@ public class InstantiateBtn : MonoBehaviour
                     newButton.GetComponent<Image>().sprite = LevelSetUpSO[i].ChangeableSO[j].ButtonSprite;
                     newButton.GetComponent<Button>().onClick.AddListener(() =>
                     ChangeableButtonClick(LevelSetUpSO[i].ChangeableSO[id - 1]));
-                }           
+
+                Debug.Log("Item Name " + LevelSetUpSO[i].ChangeableSO[id - 1].ItemName + " Counter is " + LevelSetUpSO[i].ChangeableSO[id - 1].Counter);
+                    
+                    //EventHandler.Instance.InvokeOnLoadSpriteFromSO(LevelSetUpSO[i].ChangeableSO[id - 1]);
+
+            }
         }
     }
 

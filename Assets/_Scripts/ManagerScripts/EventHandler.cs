@@ -15,18 +15,21 @@ public class EventHandler : GenericSingleton<EventHandler>
 
     public event Action<Sounds> OnButtonClickSound;
     public event Action<Sounds> OnPlayBackGroundSound;
-    public event Action<bool> OnMuteSound;
+    public event Action OnMuteSound;
 
     public  event Action<int> OnLoadLevelAction;
 
     ChangeableScriptableObjects changeableSO;
-    public  event Action<ChangeableScriptableObjects> onChangeableAction;
+    public  event Action<ChangeableScriptableObjects> OnChangeableAction;
+    public event Action<ChangeableScriptableObjects> OnLoadSpriteFromSO;
+
+
+
 
     #region
-    public  event Action OnShowInterstitialAd;
+    public event Action OnShowInterstitialAd;
     #endregion
-
-    bool isMute = false;
+   
 
     public void InvokeOnNextScene() => OnNextScene?.Invoke();
     public void InvokeOnBack() => OnBack?.Invoke();
@@ -34,16 +37,16 @@ public class EventHandler : GenericSingleton<EventHandler>
     public void InvokeOnPlayBackGroundSound() => OnPlayBackGroundSound?.Invoke(Sounds.BgMusic);
     public void InvokeOnShowInterstitialAd() => OnShowInterstitialAd?.Invoke();
 
-    public void InvokeOnMuteSound()
-    {
-        isMute = !isMute;
-        OnMuteSound?.Invoke(isMute);
-    }
+    public void InvokeOnMuteSound()=>OnMuteSound?.Invoke();
+    
 
     public void InvokeOnLoadLevel(int id)=>OnLoadLevelAction?.Invoke(id);
 
     public void InvokeOnChangeableAction(ChangeableScriptableObjects changeableScriptableObjects)
-        =>onChangeableAction?.Invoke(changeableScriptableObjects);
+        =>OnChangeableAction?.Invoke(changeableScriptableObjects);
+
+    public void InvokeOnLoadSpriteFromSO(ChangeableScriptableObjects changeableScriptableObjects)
+        => OnLoadSpriteFromSO?.Invoke(changeableScriptableObjects);
 
     public void InvokeOnRateApp()=> OnRateApp?.Invoke();
     public void InvokeOnRestoreApp() => OnRestoreApp?.Invoke();

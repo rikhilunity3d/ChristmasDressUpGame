@@ -7,18 +7,33 @@ public class ChangeItem : MonoBehaviour
     [Header("Enter the matching [ID] according to the button")]
     [SerializeField]
     int id;
-    ChangeableScriptableObjects SO;
    private void OnEnable() {
        Debug.Log("Change Item OnEnable");
-       EventHandler.Instance.onChangeableAction += ChangeItemSprite;
-       
+       EventHandler.Instance.OnChangeableAction += ChangeItemSprite;
+       EventHandler.Instance.OnLoadSpriteFromSO += LoadSpriteFromSO;
+
+
    }
-   private void OnDisable() {
+    private void Start()
+    {
+        
+    }
+    private void OnDisable() {
        Debug.Log("Change Item OnDisable");
-        EventHandler.Instance.onChangeableAction -= ChangeItemSprite;
-   }
-   
-   public void ChangeItemSprite(ChangeableScriptableObjects SO)
+        EventHandler.Instance.OnChangeableAction -= ChangeItemSprite;
+        EventHandler.Instance.OnLoadSpriteFromSO -= LoadSpriteFromSO;
+    }
+
+    public void LoadSpriteFromSO(ChangeableScriptableObjects SO)
+    {
+
+        if (id == SO.ItemId)
+        {
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = SO.ItemArray[SO.Counter];
+        }
+    }
+
+    public void ChangeItemSprite(ChangeableScriptableObjects SO)
    {
        if(id == SO.ItemId)
        {

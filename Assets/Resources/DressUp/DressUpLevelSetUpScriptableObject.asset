@@ -17,9 +17,9 @@ MonoBehaviour:
   widthDivide: 13
   heightDivide: 13
   changeableSO:
-  - {fileID: 11400000, guid: 1d3dde49f1d3e49e1b3f4e35c2e89e25, type: 2}
-  - {fileID: 11400000, guid: eaf685ffe75ec4e87a743513aac4207d, type: 2}
   - {fileID: 11400000, guid: 740130965a5ee482490dfdb4198fee66, type: 2}
-  - {fileID: 11400000, guid: f96b1b6c3ccaa44499ff4e18d99ad9e8, type: 2}
   - {fileID: 11400000, guid: f3e4dbde7ce9040d4be34c2f53624075, type: 2}
+  - {fileID: 11400000, guid: f96b1b6c3ccaa44499ff4e18d99ad9e8, type: 2}
+  - {fileID: 11400000, guid: eaf685ffe75ec4e87a743513aac4207d, type: 2}
+  - {fileID: 11400000, guid: 1d3dde49f1d3e49e1b3f4e35c2e89e25, type: 2}
   - {fileID: 11400000, guid: 21d86e4c072e542b8ad3730d9e195c34, type: 2}
